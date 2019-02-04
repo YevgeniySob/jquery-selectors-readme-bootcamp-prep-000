@@ -1,7 +1,7 @@
 // declare your functions here...
 
-$(document).ready(function() {
-    // code to be executed goes here
+//$(document).ready(function() {
+
 function paragraphSelector(){
   var p = $('p')
   return p
@@ -25,4 +25,4 @@ function firstListItem(){
 }
   
   
-});
+//});
