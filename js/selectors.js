@@ -20,7 +20,7 @@ function ninjaBabySelector(){
    var pics = $('.pics')
  }
 function firstListItem(){
-  var ul = $('')
+  var ul = $('#pic-list ')
   return ul
 }
   
