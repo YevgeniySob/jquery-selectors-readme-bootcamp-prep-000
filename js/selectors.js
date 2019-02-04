@@ -12,7 +12,9 @@ function lastImageSelector(){
   return last
 }
 
-function 
+function ninjaBabySelector(){
+  var ninja = $('')
+}
 
   
   
