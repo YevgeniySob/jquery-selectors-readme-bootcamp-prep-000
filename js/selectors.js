@@ -18,6 +18,7 @@ function ninjaBabySelector(){
 }
  function divSelector(){
    var pics = $('.pics')
+   return pics
  }
 function firstListItem(){
   var ul = $('#pic-list li:first-child')
