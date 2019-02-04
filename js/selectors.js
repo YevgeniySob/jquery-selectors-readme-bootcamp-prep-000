@@ -3,7 +3,8 @@
 $(document).ready(function() {
     // code to be executed goes here
 function paragraphSelector(){
-  $('p')
+  var p = $('p')
+  return p
 }
 
   
