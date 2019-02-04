@@ -19,7 +19,10 @@ function ninjaBabySelector(){
  function divSelector(){
    var pics = $('.pics')
  }
-  
+function firstListItem(){
+  var ul = $('')
+  return ul
+}
   
   
 });
